@@ -1,0 +1,1 @@
+record.exe %1 /A:LINE /M:MONO /R:8 /S:22050
